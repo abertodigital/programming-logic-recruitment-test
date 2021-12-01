@@ -1,4 +1,4 @@
-[![N|Solid](https://aberto.com.br/wp-content/uploads/2018/01/aberto_logo_branco.png)
+![N|Solid](https://aberto.com.br/wp-content/uploads/2018/01/aberto_logo_branco.png)
 # Teste de recrutamento
 
 PROBLEMA:
