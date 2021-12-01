@@ -14,7 +14,7 @@ Executar o algoritmo com as seguintes entradas:
 - Array: [4,8,6,1,3,7] / Valor alvo: 7
 
 ## Onde e como desenvolver? 
-Pode ser desenvolvido em qualquer IDE e em qualquer linguagem de programação, caso não possua nenhuma IDE sugerimos o [https://jscomplete.com/playground][df1]
+Pode ser desenvolvido em qualquer IDE e em qualquer linguagem de programação, caso não possua nenhuma IDE sugerimos o [https://jscomplete.com/playground]
 
 ## Como realizar a entrega do problema? 
 
